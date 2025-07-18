@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/khrlmstfa/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=IM+BRYL+JOHN+A.K.A+HUNG+SAI+SHING+JUST+A+NOOB+BOY+:)&center=true&width=300&height=100" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=IM+BRYL+JOHN+A.K.A+HUNG+SAI+SHING+JUST+A+NOOB+BOY+:)&center=true&width=600&height=50" alt="Typing SVG">
   </a>
 </p>
 
