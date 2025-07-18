@@ -8,7 +8,7 @@
   <img width="250" src="https://media3.giphy.com/media/v1.Y2lkPTgyYTE0OTNia2dpMXcyc24zc2JkNml3cHpmYmVpdmp1b2o5aWFkbzlxdnV5aG5rcyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/BdghqxNFV4efm/200w.webp" alt="Animated GIF">
 </p>
 
-<h2 align="center">Hi, I'm HUNG SAI SHING (aka BRYL JOHN)! <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyYnU2MWFhMzBzNGg2bXJnanBuc3J6OTlycnZ0Z3pyN2dpendwaGRtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1yld7nW3oQ2IyRubUm/giphy.webp" width="50"></h2>
+<h2 align="center">Hi, I'm HUNG SAI SHING (aka BRYL JOHN)! <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyYnU2MWFhMzBzNGg2bXJnanBuc3J6OTlycnZ0Z3pyN2dpendwaGRtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1yld7nW3oQ2IyRubUm/giphy.webp" width="100" height="100"></h2>
 
 <p align="center">
   <img src="https://i.ibb.co/sp27tn93/mybot.webp" alt="MyBot GIF" width="400" style="border-radius: 65px;">
