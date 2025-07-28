@@ -29,8 +29,8 @@
 </div>
 
 <ul>
-  <li><strong>Name:</strong> HUNG SAI SHING</li>
-  <li><strong>Also Known As:</strong> BRYL JOHN</li>
+  <li><strong>Name:</strong> BRYL JOHN</li>
+  <li><strong>Also Known As:</strong> HUNH SAI SHING</li>
   <li><strong>Username:</strong> Krm-Revolution</li>
   <li><strong>Interests:</strong> Music, Technologia, Chatbots</li>
   <li><strong>Hobbies:</strong> Pagebot, Creating Projects, Learning New Skills</li>
